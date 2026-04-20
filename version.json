@@ -1,5 +1,5 @@
 {
-  "version": "5.4",
+  "version": "5.3",
   "changelog": "Fix lỗi AI Demucs (torchcodec) và chuẩn bị cập nhật Gemini 3.1 TTS",
   "download_url": "link_google_drive_file_zip_cua_anh"
 }
